@@ -1,0 +1,17 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/Ariel.spritefont","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/Ariel.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2443594
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/grid.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/grid.xnb","TextureProcessor","Texture2DContent",63924,40960085,0.7845228
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/medium_button.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/medium_button.xnb","TextureProcessor","Texture2DContent",1932,32853,0.0059785
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/pathblock.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/pathblock.xnb","TextureProcessor","Texture2DContent",1678,16469,0.0149328
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/pointer.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/pointer.xnb","TextureProcessor","Texture2DContent",1630,149,0.0029923
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/redobtn.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/redobtn.xnb","TextureProcessor","Texture2DContent",2479,67669,0.0039884
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/selected32.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/selected32.xnb","TextureProcessor","Texture2DContent",1883,4181,0.002992
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/transparent32.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/transparent32.xnb","TextureProcessor","Texture2DContent",1657,4181,0.0030184
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/undobtn.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/undobtn.xnb","TextureProcessor","Texture2DContent",2490,67669,0.0039625
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-1.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/bakery.xnb","TextureProcessor","Texture2DContent",1659,4181,0.0029915
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-5.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/worker.xnb","TextureProcessor","Texture2DContent",2159,4181,0.0039896
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-5g.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/unit.xnb","TextureProcessor","Texture2DContent",2153,4181,0.0029923
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-s1.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/house.xnb","TextureProcessor","Texture2DContent",2037,4181,0.0029923
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/wall.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/wall.xnb","TextureProcessor","Texture2DContent",1816,4181,0.0030282
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/wall2.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/wall2.xnb","TextureProcessor","Texture2DContent",1839,4181,0.0029922
+"C:/Users/tiglath/source/repos/Game3/Game3/Content/wall3.png","C:/Users/tiglath/source/repos/Game3/Game3/Content/bin/DesktopGL/wall3.xnb","TextureProcessor","Texture2DContent",2199,4181,0.0019948

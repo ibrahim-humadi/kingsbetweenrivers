@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/Ariel.spritefont</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/grid.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/medium_button.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/pathblock.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/pointer.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/redobtn.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/selected32.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/transparent32.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/undobtn.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-1.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-5.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-5g.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/Untitled-s1.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/wall.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/wall2.png</File>
+    <File>C:/Users/tiglath/source/repos/Game3/Game3/Content/wall3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>bakery</File>
+    <File>worker</File>
+    <File>unit</File>
+    <File>house.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
