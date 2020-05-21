@@ -1,4 +1,4 @@
-# kingsbetweenrivers
+# Kings Between Rivers
 A 2d game currently implementing rudimentary A* algorithm pathfinding, a matrix controlled pan/zoom camera. 
 Basic UI to create, delete, save and load structures to the game as well as create ai units. 
 
